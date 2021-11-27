@@ -1,0 +1,7 @@
+a = (" I've lived in Rasht for 10 years, I had difficult Years those days. Now I've leaved rash and I live in lahijan. Lahijan is a small city")
+c = a.count("Rasht")
+b = a.count("year")
+d = a.count("lahijan")
+print(c)
+print(b)
+print(d)

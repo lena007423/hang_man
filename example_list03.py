@@ -1,0 +1,12 @@
+singers_name = ["Adele", "August D", ]
+your_favorit = input("Who are your favorit singer (1)? ")
+your_favorit1 = input("Who are your favorit singer (2)? ")
+your_favorit2 = input("Who are your favorit singer (3)? ")
+your_favorit3 = input("Who are your favorit singer (4)? ")
+your_favorit4 = input("Who are your favorit singer (5)? ")
+singers_name.insert(2, your_favorit)
+singers_name.insert(3, your_favorit1)
+singers_name.insert(4, your_favorit2)
+singers_name.insert(5, your_favorit3)
+singers_name.insert(6, your_favorit4)
+print(singers_name)
