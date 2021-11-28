@@ -1,4 +1,4 @@
-name1 = ("Amir")
+name1 = ("AMir")
 name2 = ("Aidin")
 name3 = ("Mina")
 names = [name1, name2, name3]

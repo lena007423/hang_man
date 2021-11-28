@@ -1,4 +1,4 @@
-from turtle import Turtle, done
+from tle import Turtle, done
 shn = input("Write a shape name: ")
 t = Turtle ()
 if shn == "circle":

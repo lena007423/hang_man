@@ -1,6 +1,6 @@
-from turtle import Turtle, done,colormode
+from turtle import tle, done,colormode
 from random import randint
-t = Turtle()
+t = tle()
 colormode(255)
 for i in range(100):
     t.penup()

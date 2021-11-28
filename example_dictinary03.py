@@ -14,7 +14,7 @@ color = (input("what color do you whant? "))
 def get_input (ac_list):
     print("product", ac_list)
     ap = input("wich product do you mean? ")
-    while not ac_list.__contains__(ac):
+    while not ac_list.__contains__(ap):
         ap = input("wich product do you mean? ")
     else:
         print(category, dic(ap).keys())

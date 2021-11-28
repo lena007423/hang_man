@@ -1,6 +1,6 @@
-from turtle import Turtle , done
+from tle import tle , done
 from random import randint
-t = Turtle()
+t = tle()
 for i in range(20):
     t.penup()
     x = randint(-250, 250)

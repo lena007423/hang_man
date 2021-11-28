@@ -1,5 +1,5 @@
-from turtle import  Turtle , done
-t = Turtle ()
+from tle import  tle , done
+t = tle ()
 
 for i in range(4):
     t.pencolor("#FBC02D")

@@ -1,3 +1,3 @@
-import turtle
-turtle.forward(100)
+from tle import*
+tle.forward(100)
 done()
